@@ -1,0 +1,27 @@
+﻿p {
+margin: 30px;
+margin-bottom: 0px;
+margin-top: 0px;
+font-size: 16px;
+line-height: 1.5;
+text-indent: 40px;
+text-align: justify;
+}
+h1 {
+font-size: 36px;
+}
+h2 {
+font-size: 24px;
+}
+img {
+float: left;
+margin-right: 15px;
+margin-bottom: 15px;
+}
+.headtext{
+text-align: center;
+}
+.epigraph {
+font-style: italic;
+text-align: right;
+}
