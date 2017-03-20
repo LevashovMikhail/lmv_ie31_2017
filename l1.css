@@ -107,7 +107,6 @@ a:hover{
 @media (max-width: 1366px) and (max-height: 768px){
     .leftcolumn{
         width: 140px;
-        height: 568px;
     }
 }
 @media (max-width: 800px) and (max-height: 600px){
