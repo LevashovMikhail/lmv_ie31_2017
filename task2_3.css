@@ -1,0 +1,49 @@
+body {
+margin-left: 33.33%;
+margin-right: 33.33%;
+width: 400px;
+font-size: 16px;
+line-height: 1.5;
+text-align: center;
+}
+h1 {
+font-size: 36px;
+}
+h2 {
+font-size: 24px;
+}
+img {
+float: left;
+margin-right: 15px;
+margin-bottom: 15px;
+}
+pre {
+text-align: left;
+font-family: inherit;
+}
+ul{
+    list-style-type: none;
+}
+ul a{
+    text-decoration: none;
+    color: #000000;
+}
+ul a:hover{
+    color: #999999;
+}
+ul a[target="_blank"]{
+    text-decoration: underline;
+    color: #000000;
+}
+ul a[target="_blank"]:hover{
+    text-decoration: underline;
+    color: #999999;
+}
+.headtext {
+text-align: center;
+}
+.epigraph {
+position: right;
+font-style: italic;
+text-align: right;
+}
