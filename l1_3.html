@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 
 <html>
 <head>
@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<div id="headtext"><a href="./l1.html">Шаблон сайта</a></div>
+<a href="./l1.html"><div id="headtext">Шаблон сайта</div></a>
 <div class="mainmenu">
     <table class="mainmenutable">
         <tr>
@@ -41,7 +41,11 @@
         <br>
         <input type="telephone" placeholder="номер телефона"></input>
         <br>
-        <textarea name="message" rows="10" placeholder="Сообщение"></textarea>
+	<label>
+	Сообщение
+	</label>
+	<br>
+        <textarea name="message" rows="10" cols="16" placeholder="Сообщение"></textarea>
         <br>
         <button class="button">Отправить</button>
     </form>
